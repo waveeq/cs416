@@ -1,4 +1,4 @@
-﻿Country Name,Income Group,Country Code,Year,CHPP,Life_Expectancy,population
+﻿CountryName,IncomeGroup,Country Code,Year,CHPP,Life_Expectancy,population
 Afghanistan,Low income,AFG,2019,65.80603027,65.173,38928341
 Albania,Upper middle income,ALB,2019,,78.686,2837849
 Algeria,Lower middle income,DZA,2019,248.2058716,77.063,43851043
